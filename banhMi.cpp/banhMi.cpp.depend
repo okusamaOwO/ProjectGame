@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1682320054 source:d:\test_sdl\teststl\testsdl\banhmi.cpp\main.cpp
+	"class.h"
+	"game.h"
+	"pleiku.h"
+
+1683132022 d:\test_sdl\teststl\testsdl\banhmi.cpp\game.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<time.h>
+	<conio.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1680966478 source:d:\test_sdl\teststl\testsdl\banhmi.cpp\game.cpp
+	"game.h"
+
+1682482954 d:\test_sdl\teststl\testsdl\banhmi.cpp\class.h
+	"game.h"
+
+1683045266 source:d:\test_sdl\teststl\testsdl\banhmi.cpp\class.cpp
+	"class.h"
+
+1680929992 source:d:\test_sdl\teststl\testsdl\banhmi.cpp\play.cpp
+	"play.h"
+
+1680930544 d:\test_sdl\teststl\testsdl\banhmi.cpp\play.h
+	"game.h"
+	"class.h"
+
+1683046457 d:\test_sdl\teststl\testsdl\banhmi.cpp\menu.h
+	"class.h"
+
+1683098206 source:d:\test_sdl\teststl\testsdl\banhmi.cpp\menu.cpp
+	"menu.h"
+
+1683167934 source:d:\test_sdl\teststl\testsdl\banhmi.cpp\pleiku.cpp
+	"pleiku.h"
+
+1683132238 d:\test_sdl\teststl\testsdl\banhmi.cpp\pleiku.h
+	"game.h"
+	"class.h"
+	"chicken.h"
+	"egg.h"
+	"ImpTimer.h"
+	"drumStick.h"
+	"menu.h"
+	"textObject.h"
+	"stone.h"
+	"sound.h"
+
+1682914627 source:d:\test_sdl\teststl\testsdl\banhmi.cpp\chicken.cpp
+	"chicken.h"
+
+1682914629 d:\test_sdl\teststl\testsdl\banhmi.cpp\chicken.h
+	"class.h"
+	"egg.h"
+
+1681886385 d:\test_sdl\teststl\testsdl\banhmi.cpp\egg.h
+	"class.h"
+
+1682502604 source:d:\test_sdl\teststl\testsdl\banhmi.cpp\egg.cpp
+	"egg.h"
+
+1681434150 source:d:\test_sdl\teststl\testsdl\banhmi.cpp\spaceship.cpp
+
+1681659449 source:d:\test_sdl\teststl\testsdl\banhmi.cpp\imptimer.cpp
+	"ImpTimer.h"
+	"game.h"
+
+1681659441 d:\test_sdl\teststl\testsdl\banhmi.cpp\imptimer.h
+
+1681692170 source:d:\test_sdl\teststl\testsdl\banhmi.cpp\drumstick.cpp
+	"drumStick.h"
+
+1681947714 d:\test_sdl\teststl\testsdl\banhmi.cpp\drumstick.h
+	"class.h"
+	"chicken.h"
+
+1682382156 d:\test_sdl\teststl\testsdl\banhmi.cpp\textobject.h
+	"game.h"
+
+1682490091 d:\test_sdl\teststl\testsdl\banhmi.cpp\stone.h
+	"class.h"
+
+1682866137 source:d:\test_sdl\teststl\testsdl\banhmi.cpp\stone.cpp
+	"stone.h"
+
+1683131988 d:\test_sdl\teststl\testsdl\banhmi.cpp\sound.h
+	"game.h"
+
+1683167502 source:d:\test_sdl\teststl\testsdl\banhmi.cpp\sound.cpp
+	"sound.h"
+
